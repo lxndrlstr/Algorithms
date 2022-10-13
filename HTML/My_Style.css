@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    background-color: ivory;
+    font-family: HYGothic-Medium;
+}
+
+
+h2 {
+    color: blue;
+}
+
+.head_section {
+    background-color: antiquewhite;
+}
+
+.ingredient_section {
+    background-color: darkblue;
+    color: ivory;
+    font-family: HYGothic-Extra;
+    font-size: 75%;
+}
